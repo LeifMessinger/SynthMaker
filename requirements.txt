@@ -1,0 +1,11 @@
+numpy==1.26.4
+scipy
+IPython
+matplotlib
+scikit-learn
+tqdm
+
+-i https://download.pytorch.org/whl/cu128
+torch
+torchvision
+torchaudio

@@ -1,11 +1,7 @@
-numpy==1.26.4
+-i https://pypi.python.org/simple
+numpy
 scipy
 IPython
 matplotlib
 scikit-learn
 tqdm
-
--i https://download.pytorch.org/whl/cu128
-torch
-torchvision
-torchaudio
